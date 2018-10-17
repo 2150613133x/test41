@@ -1,0 +1,1 @@
+include ':app', ':libzxing', ':bcprov-ext-jdk15on-160'
